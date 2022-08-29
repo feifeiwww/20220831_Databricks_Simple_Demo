@@ -7,7 +7,7 @@ I have created several simple [notebooks](https://github.com/feifeiwww/20220831_
 .
 * **notebook4**: This notebook is to show you can create widgets and create dashboard based on your notebook immediately.
 * **notebook5**: This notebook is to show the steps to use autoML. You can begin building your first regression/classification/forecast model without writing any code.
-* notebook6: This notebook is to show the fine grained time series models running in parallel tutorial. You may build thousands of time series models in parallel and run them in minutes to get the forecast results using Databricks. [Here](https://www.databricks.com/blog/2021/04/06/fine-grained-time-series-forecasting-at-scale-with-facebook-prophet-and-apache-spark-updated-for-spark-3.html) is the orginal blog post. 
+* **notebook6**: This notebook is to show the fine grained time series models running in parallel tutorial. You may build thousands of time series models in parallel and run them in minutes to get the forecast results using Databricks. [Here](https://www.databricks.com/blog/2021/04/06/fine-grained-time-series-forecasting-at-scale-with-facebook-prophet-and-apache-spark-updated-for-spark-3.html) is the orginal blog post. 
 
 ## If you would like run this demo on Databricks Community Edition (free), please follow the instructions below:
 
