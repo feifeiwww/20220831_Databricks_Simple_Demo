@@ -30,10 +30,10 @@ Note that Community Edition is a free offering of Databricks and there are a few
 
   (d) Open the imported notebooks on Databricks from the workspace tab, open one notebook, attach the `test10.4ML` cluster to your notebook, then click "Run All" on the top to run the notebook. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section *"Attach a notebook to a cluster"*. 
   
-  ![image](https://user-images.githubusercontent.com/109642474/180576291-1bdcd11a-c400-4152-afe1-c92a8fc577c2.png)
-  
-  ![image](https://user-images.githubusercontent.com/109642474/180576518-f4f71fda-05e0-48b5-8a6a-d32048981d11.png)
+  <img width="919" alt="image" src="https://user-images.githubusercontent.com/109642474/187309356-7412102a-18d5-41d8-955f-4299d3c60ebf.png">
 
+  
+ <img width="1711" alt="image" src="https://user-images.githubusercontent.com/109642474/187309450-979b3273-b716-4196-96fa-635a67b342c3.png">
 
   (e) You can also try to import and open other notebooks similarly, attach it to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run a notebook.
 
