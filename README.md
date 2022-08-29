@@ -34,7 +34,8 @@ Note that Community Edition is a free offering of Databricks and there are a few
   <img width="919" alt="image" src="https://user-images.githubusercontent.com/109642474/187309356-7412102a-18d5-41d8-955f-4299d3c60ebf.png">
 
   
- <img width="1711" alt="image" src="https://user-images.githubusercontent.com/109642474/187309450-979b3273-b716-4196-96fa-635a67b342c3.png">
+ <img width="1700" alt="image" src="https://user-images.githubusercontent.com/109642474/187311096-dfb49b2b-daea-411f-a388-dc5115c83bb3.png">
+
 
   (e) You can also try to import and open other notebooks similarly, attach it to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run a notebook.
 
