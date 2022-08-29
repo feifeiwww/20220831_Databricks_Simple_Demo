@@ -1,7 +1,7 @@
 # 20220831_Databricks_Simple_Demo
 I have created several simple notebooks to help new users understand Databricks' use cases.
 * notebook1: to show within one Databricks notebook, you can run python, sql, R, scala, markdown, sh, pip etc. 
-* notebook2: to show that you can use Databricks simply in the same way as you use python locally (for example Jupyter notebook). If you are using ML clusters 10.4ML+, and if you are running sklearn, tensorflow etc. models, MLflow is automatically enabled to help you track your model parameters, metrics etc. 
+* notebook2: to show that you can use Databricks as simple as you use python locally (for example Jupyter notebook). If you are using ML clusters 10.4ML+, and if you are running sklearn, tensorflow etc. models, MLflow is automatically enabled to help you track your model parameters, metrics etc. 
 * notebook3: Spark is faster. This tutorial is from Datbricks Academy course [here](https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark) under ML14. You will need to have both the "Includes" folder and the ML14 notebook under the same folder in order to run it under Databricks
 .
 * notebook4: to show you can create widgets and create dashboard based on your notebook immediately.
