@@ -3,7 +3,7 @@ I have created several simple [notebooks](https://github.com/feifeiwww/20220831_
  
 * **notebook1**: This notebook is to show within one Databricks notebook, you can run python, sql, R, scala, markdown, sh, pip etc. 
 * **notebook2**: This notebook is to show that you can use Databricks the same way as you use python locally if that is your use case (for example Jupyter notebook). If you are using ML clusters 10.4ML+, and if you are running sklearn, tensorflow etc. models, MLflow is automatically enabled to help you track your model parameters, metrics etc. 
-* **notebook3**: This notebook is to show spark is faster. This tutorial is from Datbricks Academy course [here](https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark) under ML14. You will need to have both the "Includes" folder and the ML14 notebook under the same folder in order to run it under Databricks
+* **notebook3**: This notebook is to show spark is faster. This tutorial is from Datbricks Academy course [here](https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark) under ML14. You will need to have both the "Includes" folder and the ML14 notebook under the same folder in order to run this notebook3 on Databricks
 .
 * **notebook4**: This notebook is to show you can create widgets and create dashboard based on your notebook immediately.
 * **notebook5**: This notebook is to show the steps to use autoML. You can begin building your first regression/classification/forecast model without writing any code.
